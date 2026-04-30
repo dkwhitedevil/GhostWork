@@ -1,0 +1,10 @@
+{"instruction":"Classify this contract clause","input":"The user must provide monthly reports to the company.","output":"obligation"}
+{"instruction":"Classify this contract clause","input":"The company shall not be liable for any indirect damages.","output":"liability"}
+{"instruction":"Classify this contract clause","input":"The user retains ownership of all submitted content.","output":"right"}
+{"instruction":"Classify this contract clause","input":"The user may not disclose confidential information.","output":"restriction"}
+{"instruction":"Classify this contract clause","input":"Either party may terminate the agreement with 30 days notice.","output":"exit_condition"}
+{"instruction":"Classify this contract clause","input":"This agreement shall be governed by the laws of California.","output":"governing_law"}
+{"instruction":"Classify this contract clause","input":"The contractor must comply with all applicable laws.","output":"obligation"}
+{"instruction":"Classify this contract clause","input":"The company is not responsible for data loss under any circumstances.","output":"liability"}
+{"instruction":"Classify this contract clause","input":"Users are allowed to access premium features upon payment.","output":"right"}
+{"instruction":"Classify this contract clause","input":"The user shall not engage in competing services.","output":"restriction"}

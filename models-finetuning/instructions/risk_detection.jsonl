@@ -1,0 +1,19 @@
+{"instruction":"Analyze the legal risk in this clause","input":"The user shall indemnify the company against all damages without limitation.","output":{"risk_level":"high","risk_type":"indemnification_overreach","explanation":"This clause imposes unlimited liability on the user.","severity_score":0.95}}
+
+{"instruction":"Analyze the legal risk in this clause","input":"The company may modify the agreement at any time without notice.","output":{"risk_level":"high","risk_type":"unilateral_modification","explanation":"The company can change terms without user consent.","severity_score":0.9}}
+
+{"instruction":"Analyze the legal risk in this clause","input":"This agreement renews automatically every year.","output":{"risk_level":"medium","risk_type":"auto_renewal","explanation":"Automatic renewal may trap users without explicit consent.","severity_score":0.7}}
+
+{"instruction":"Analyze the legal risk in this clause","input":"All intellectual property created belongs to the company.","output":{"risk_level":"high","risk_type":"ip_transfer","explanation":"User loses ownership of their work.","severity_score":0.92}}
+
+{"instruction":"Analyze the legal risk in this clause","input":"The company may terminate this agreement at any time.","output":{"risk_level":"high","risk_type":"termination_for_convenience","explanation":"One-sided termination without justification.","severity_score":0.88}}
+
+{"instruction":"Analyze the legal risk in this clause","input":"The user agrees not to compete for 2 years.","output":{"risk_level":"high","risk_type":"non_compete","explanation":"Restricts professional freedom for extended duration.","severity_score":0.85}}
+
+{"instruction":"Analyze the legal risk in this clause","input":"The user waives rights to class action lawsuits.","output":{"risk_level":"high","risk_type":"arbitration_waiver","explanation":"Limits access to legal remedies.","severity_score":0.87}}
+
+{"instruction":"Analyze the legal risk in this clause","input":"The user shall pay $10000 for any breach.","output":{"risk_level":"high","risk_type":"liquidated_damages","explanation":"Penalty may be disproportionate.","severity_score":0.9}}
+
+{"instruction":"Analyze the legal risk in this clause","input":"The company is not liable for any damages.","output":{"risk_level":"high","risk_type":"liability_waiver","explanation":"Company avoids all responsibility.","severity_score":0.93}}
+
+{"instruction":"Analyze the legal risk in this clause","input":"The agreement may be updated with prior notice.","output":{"risk_level":"low","risk_type":"controlled_modification","explanation":"Notice reduces risk.","severity_score":0.3}}

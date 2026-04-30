@@ -1,0 +1,19 @@
+{"instruction":"Extract red flags from this clause","input":"The user shall indemnify the company without limitation.","output":["indemnification_overreach","unlimited_liability"]}
+
+{"instruction":"Extract red flags from this clause","input":"The company may modify terms at any time without notice.","output":["unilateral_modification"]}
+
+{"instruction":"Extract red flags from this clause","input":"This agreement renews automatically unless canceled 60 days prior.","output":["auto_renewal","long_notice_period"]}
+
+{"instruction":"Extract red flags from this clause","input":"All IP created shall belong to the company.","output":["ip_transfer"]}
+
+{"instruction":"Extract red flags from this clause","input":"The company may terminate this agreement at its discretion.","output":["termination_for_convenience"]}
+
+{"instruction":"Extract red flags from this clause","input":"The user cannot engage in similar business for 2 years.","output":["non_compete"]}
+
+{"instruction":"Extract red flags from this clause","input":"The user waives rights to participate in class actions.","output":["arbitration_waiver"]}
+
+{"instruction":"Extract red flags from this clause","input":"The user must pay $50000 for any breach.","output":["liquidated_damages"]}
+
+{"instruction":"Extract red flags from this clause","input":"The user must maintain confidentiality while the company has no obligation.","output":["confidentiality_asymmetry"]}
+
+{"instruction":"Extract red flags from this clause","input":"The company may share user data with partners.","output":["data_sharing","privacy_risk"]}
